@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36ae0300-6743-4785-a9d2-ba0bd0e39946" name="변경" comment="">
+    <list default="true" id="36ae0300-6743-4785-a9d2-ba0bd0e39946" name="변경" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p5/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/nmb11/Documents/back_end/lecture/part-02.-data-structure-algorithm/03.Nonlinear DS/Practice/NonLinearDS_05"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nmb11/Documents/back_end/lecture/part-02.-data-structure-algorithm/03.Nonlinear DS/Practice/NonLinearDS_05&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nmb11\Documents\back_end\zerobase-codigtest\zerobase-codingtest-03\src" />
@@ -74,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654773643868</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1655044171439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655044171439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
